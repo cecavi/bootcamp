@@ -1,0 +1,29 @@
+/* Example styling of a h1 element */
+h1 {
+  color: bisque;
+}
+
+p {
+  color:bisque;
+  font-size: 20px;
+}
+
+
+h3 {
+  color:brown;
+}
+
+h4 {
+  color:brown;
+}
+
+.brown-box {
+background-color:brown;
+padding: 20px
+}
+
+.bisque-box {
+background-color:bisque;
+padding: 20px
+
+}
